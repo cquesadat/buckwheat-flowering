@@ -1,0 +1,9 @@
+# Data are supplied separately and copied into this directory.
+data/*
+!data/.gitkeep
+outputs/*
+!outputs/.gitkeep
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
